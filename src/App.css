@@ -1,0 +1,9 @@
+.container > img {
+  display: flex;
+  border: solid violet 1px;
+  margin: 20px 500px 20px 500px;
+}
+
+header {
+  border-bottom: 1px black solid;
+}
